@@ -1,2 +1,7 @@
 # SAT-Solver
-A Project , part of CS152, second semester , IITB, CSE
+
+Devised a universal Satisfiability solver which takes input any boolean Formula to convert into Conjunctive Normal Form using Racket
+
+Incorporated a modification of DPLL algorithm, with optimizations for variable selection 
+
+Created a Special Graphical User Interface to solve Sudoku, n-Queens, and a Scheduler for Tournaments
